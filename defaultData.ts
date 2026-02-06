@@ -1,0 +1,20 @@
+export const defaultDataset = [
+  { "SupplierID": "B00079", "DeliverDate": "2025-11-07", "CustomerID": "C05278", "LicenseNo": "衛部醫器輸字第033951號", "Category": "E.3610植入式心律器之脈搏產生器", "LotNO": "890057", "SerialNo": "", "Model": "L111", "Quantity": 1 },
+  { "SupplierID": "B00079", "DeliverDate": "2025-11-06", "CustomerID": "C06030", "LicenseNo": "衛部醫器輸字第033951號", "Category": "E.3610植入式心律器之脈搏產生器", "LotNO": "872177", "SerialNo": "", "Model": "L111", "Quantity": 1 },
+  { "SupplierID": "B00079", "DeliverDate": "2025-11-06", "CustomerID": "C00123", "LicenseNo": "衛部醫器輸字第033951號", "Category": "E.3610植入式心律器之脈搏產生器", "LotNO": "889490", "SerialNo": "", "Model": "L111", "Quantity": 1 },
+  { "SupplierID": "B00079", "DeliverDate": "2025-11-05", "CustomerID": "C06034", "LicenseNo": "衛部醫器輸字第033951號", "Category": "E.3610植入式心律器之脈搏產生器", "LotNO": "889253", "SerialNo": "", "Model": "L111", "Quantity": 1 },
+  { "SupplierID": "B00079", "DeliverDate": "2025-11-03", "CustomerID": "C05363", "LicenseNo": "衛部醫器輸字第029100號", "Category": "E.3610植入式心律器之脈搏產生器", "LotNO": "869531", "SerialNo": "", "Model": "L311", "Quantity": 1 },
+  { "SupplierID": "B00079", "DeliverDate": "2025-11-03", "CustomerID": "C06034", "LicenseNo": "衛部醫器輸字第033951號", "Category": "E.3610植入式心律器之脈搏產生器", "LotNO": "889230", "SerialNo": "", "Model": "L111", "Quantity": 1 },
+  { "SupplierID": "B00079", "DeliverDate": "2025-11-03", "CustomerID": "C05278", "LicenseNo": "衛部醫器輸字第029100號", "Category": "E.3610植入式心律器之脈搏產生器", "LotNO": "182310", "SerialNo": "", "Model": "L331", "Quantity": 1 },
+  { "SupplierID": "B00051", "DeliverDate": "2025-10-30", "CustomerID": "C02822", "LicenseNo": "衛部醫器輸字第028560號", "Category": "L.5980經陰道骨盆腔器官脫垂治療用手術網片", "LotNO": "CC250520", "SerialNo": "19", "Model": "CPS02", "Quantity": 1 },
+  { "SupplierID": "B00079", "DeliverDate": "2025-10-30", "CustomerID": "C00123", "LicenseNo": "衛部醫器輸字第033951號", "Category": "E.3610植入式心律器之脈搏產生器", "LotNO": "915900", "SerialNo": "", "Model": "L110", "Quantity": 1 },
+  { "SupplierID": "B00051", "DeliverDate": "2025-10-30", "CustomerID": "C02822", "LicenseNo": "衛部醫器輸字第028560號", "Category": "L.5980經陰道骨盆腔器官脫垂治療用手術網片", "LotNO": "CC250520", "SerialNo": "20", "Model": "CPS02", "Quantity": 1 },
+  { "SupplierID": "B00051", "DeliverDate": "2025-10-29", "CustomerID": "C02082", "LicenseNo": "衛部醫器輸字第028560號", "Category": "L.5980經陰道骨盆腔器官脫垂治療用手術網片", "LotNO": "CC250326", "SerialNo": "4", "Model": "CPS02", "Quantity": 1 },
+  { "SupplierID": "B00051", "DeliverDate": "2025-10-29", "CustomerID": "C02082", "LicenseNo": "衛部醫器輸字第028560號", "Category": "L.5980經陰道骨盆腔器官脫垂治療用手術網片", "LotNO": "CC250326", "SerialNo": "5", "Model": "CPS02", "Quantity": 1 },
+  { "SupplierID": "B00209", "DeliverDate": "2025-10-28", "CustomerID": "C03210", "LicenseNo": "衛部醫器輸字第026988號", "Category": "L.5980經陰道骨盆腔器官脫垂治療用手術網片", "LotNO": "", "SerialNo": "00012150", "Model": "Calistar S", "Quantity": 1 },
+  { "SupplierID": "B00051", "DeliverDate": "2025-10-28", "CustomerID": "C01774", "LicenseNo": "衛部醫器輸字第030820號", "Category": "L.5980經陰道骨盆腔器官脫垂治療用手術網片", "LotNO": "MB241203", "SerialNo": "140", "Model": "KITMIPS02", "Quantity": 1 },
+  { "SupplierID": "B00209", "DeliverDate": "2025-10-28", "CustomerID": "C03210", "LicenseNo": "衛部醫器輸字第026988號", "Category": "L.5980經陰道骨盆腔器官脫垂治療用手術網片", "LotNO": "", "SerialNo": "00012154", "Model": "Calistar S", "Quantity": 1 },
+  { "SupplierID": "B00051", "DeliverDate": "2025-10-28", "CustomerID": "C01773", "LicenseNo": "衛部醫器輸字第028560號", "Category": "L.5980經陰道骨盆腔器官脫垂治療用手術網片", "LotNO": "CC241128", "SerialNo": "85", "Model": "CPS02", "Quantity": 1 },
+  { "SupplierID": "B00209", "DeliverDate": "2025-10-28", "CustomerID": "C03210", "LicenseNo": "衛部醫器輸字第026988號", "Category": "L.5980經陰道骨盆腔器官脫垂治療用手術網片", "LotNO": "", "SerialNo": "00012155", "Model": "Calistar S", "Quantity": 1 },
+  { "SupplierID": "B00051", "DeliverDate": "2025-10-28", "CustomerID": "C01774", "LicenseNo": "衛部醫器輸字第030820號", "Category": "L.5980經陰道骨盆腔器官脫垂治療用手術網片", "LotNO": "MB241203", "SerialNo": "142", "Model": "KITMIPS02", "Quantity": 1 }
+];
