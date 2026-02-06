@@ -13,6 +13,7 @@ export interface PainterTheme {
     panelBg: string;
     borderColor: string;
     coral: string;
+    glass: string;
   };
 }
 
@@ -39,4 +40,16 @@ export interface ChartDataPoint {
   name: string;
   value: number;
   [key: string]: any;
+}
+
+export interface FilterState {
+  searchQuery: string;
+  supplierIds: string[];
+  categories: string[];
+  licenseNos: string[];
+  modelIds: string[];
+  lotQuery: string;
+  serialQuery: string;
+  customerIds: string[];
+  timeZoneRange: [number, number]; // [min, max] -12 to +12
 }
